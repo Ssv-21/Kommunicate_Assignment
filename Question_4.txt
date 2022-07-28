@@ -1,0 +1,8 @@
+Describe the best project you have worked on, including links if any?
+
+In my B.tech we a group of enthusiasts worked on the concept of Online/Digital Library Management i.e and named it as Bibliophile's corner. 
+Which has been designed to computerize and automate the information which is digitalised and stored in the form of electronic portal that provides access to 
+all kind of database such as bibliographies, full-text resources, catalogues, search engines, internet resources, reference works, E-journals 
+and along with the audiobooks etc. Earlier its only paper based works only available in libraries.
+links
+https://github.com/Ssv-21/Bibliophile-s-corner
