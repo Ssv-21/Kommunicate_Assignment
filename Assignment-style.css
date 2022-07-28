@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&family=Roboto:wght@700&display=swap');
+
+.Main{
+    position: relative;
+}
+
+.line{
+    position: absolute;
+    margin: 0px;
+    height: 500px;
+    width:0px;
+    padding: 0;
+    border: solid;
+    top: 100px;
+    z-index: 50;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+.Heading{
+    position: absolute;
+    top: 260px;
+    left: 150px;
+}
+
+#H_One{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#H_Two{
+    color: #5553B7;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Button{
+    position: absolute;
+    top: 380px;
+    left: 150px;
+    cursor: pointer;
+}
+
+.B_One{
+    background-color: #2DD35C;
+    border: transparent;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    border-radius: 25px 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.B_Two{
+    background-color: white;
+    border-color: #5553B7;
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 20px;
+    text-align: center;
+    color: #5553B7;
+    border-radius: 25px;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
+
+.S_One{
+    top: 200px;
+    border: solid;
+    border-radius: 2rem 50rem 5rem 2rem  ;
+    border-color:#2DD35C;
+    height: 300px;
+    width: 1100px;
+    position: absolute;
+}
+
+.S_Two{
+    background-color: #5553B7;
+    z-index: 50;
+    position: absolute;
+    right: 100px;
+    top: 250px;
+    border: transparent;
+    border-radius: 50rem 3rem 3rem 3rem;
+    height: 200px;
+    width: 700px;
+    opacity: 0.4;
+}
